@@ -5,7 +5,8 @@ Some useful script for Flipper Zero
 
 **generate_subghz_playlists.sh**
 
-    Generates .txt playlist under /subghz/playlists folder (to be used with the sub playlist plugin installed by default on RogueMaster Firmware).
+    Generates .txt playlist under /subghz/playlists folder to be used with the 
+    sub playlist plugin installed by default on RogueMaster Firmware.
     
     Remember to change the DIR variable value inside the script to match your mounted microSD.
 
