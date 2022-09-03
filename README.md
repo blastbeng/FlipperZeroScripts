@@ -1,5 +1,6 @@
-# FlipperZeroScripts - Some useful script for flipper
-Just some flipper zero scripts
+# FlipperZeroScripts
+
+Some useful script for Flipper Zero
 
 
 **generate_subghz_playlists.sh**
